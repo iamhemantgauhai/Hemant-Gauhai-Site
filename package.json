@@ -1,0 +1,19 @@
+{
+  "name": "hemant-gauhai-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmehemantgauhai01/Hemant-Gauhai-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmehemantgauhai01/Hemant-Gauhai-Site/issues"
+  },
+  "homepage": "https://github.com/itsmehemantgauhai01/Hemant-Gauhai-Site#readme"
+}
